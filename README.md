@@ -1,7 +1,5 @@
-# society-services-directory
+# ApnaConnect
 The application for maintaining all the contacts for Society Folks 
-# Society Services Directory
-
 
 A simple open‑source web app for housing societies to share useful local contacts.
 
